@@ -1,4 +1,4 @@
 # my-resume
 Deepak Lamichhane Resume
 
-![Deepak Lamichhane](Deepak_resume.pdf)
+[Deepak Lamichhane](Deepak_resume.pdf)
